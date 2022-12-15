@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define VERTICES 6
+#define VERTICES 5
 
 typedef struct _ARISTA
 {
